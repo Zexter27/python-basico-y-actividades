@@ -1,44 +1,35 @@
 # 🐍 Python Básico y Actividades
 
-Este repositorio contiene apuntes, ejercicios y actividades prácticas pensadas para aprender **Python desde cero**, avanzando paso a paso desde los fundamentos hasta la resolución de problemas reales.
-
-El objetivo es proporcionar material útil tanto para **estudiantes** como para **personas que están comenzando en programación**, con ejemplos simples y explicados.
+Este repositorio contiene **actividades, ejercicios y scripts** desarrollados en un curso básico de Python. Está pensado como material de apoyo para quienes comienzan en programación, con ejemplos sencillos, retos y algunos ejercicios resueltos.  
 
 ---
 
-## 📚 Contenido del repositorio
+## 📂 ¿Qué hay dentro?
 
-### 🔹 1. Fundamentos de Python
+- Archivos `.py` con ejercicios y scripts (por ejemplo: `joseperea.py.py`, `naomy.py.py`, `yohan.py.py`, etc.).  
+- Documentos, tareas y ejercicios en PDF.  
+- Hojas de cálculo o reportes simples (.xlsx) — en tu caso: `reporte_reprobacion_matematicas.xlsx`.  
+- Distintos ejercicios que refuerzan los conceptos básicos de Python y lógica de programación.  
+
+---
+
+## ✅ Contenidos de aprendizaje
+
+Dentro del repositorio se cubren temas como:
+
 - Variables y tipos de datos  
 - Operadores  
-- Condicionales (`if`, `elif`, `else`)  
+- Estructuras de control (condicionales: `if`, `elif`, `else`)  
 - Ciclos (`for`, `while`)  
 - Funciones  
-- Listas, tuplas, diccionarios  
-- Manejo de errores  
-
-### 🔹 2. Actividades y Ejercicios
-Ejercicios prácticos diseñados para reforzar cada tema visto en clase o de forma autodidacta.
-
-Incluye:
-- Actividades básicas  
-- Algoritmos simples  
-- Ejercicios con lógica de programación  
-- Retos personalizados  
-
-### 🔹 3. Proyectos pequeños
-Incluye mini-proyectos o scripts más completos para mejorar el entendimiento práctico.
+- Uso de listas, tuplas, diccionarios  
+- Ejercicios de lógica y resolución de problemas concretos  
+- Proyectos o scripts simples como práctica  
 
 ---
 
-## 🛠 Tecnologías utilizadas
-- Python 3.10+  
-- IDE recomendado: VSCode / PyCharm / Thonny  
+## 🛠 Cómo usar este repositorio
 
----
-
-## 🚀 ¿Cómo usar este repositorio?
-
-1. Clona el repositorio:
-```bash
-git clone https://github.com/Zexter27/python-basico-y-actividades.git
+1. Clona el repositorio en tu máquina local:  
+   ```bash
+   git clone https://github.com/Zexter27/python-basico-y-actividades.git
